@@ -2,6 +2,8 @@
 
 Write a function that converts numbers to words
 
+Should work for all numbers in the range 0 and 999,999 inclusive
+
 ## 🥇 Examples
 
 1 -> 'one'
