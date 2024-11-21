@@ -10,4 +10,6 @@ Should work for all numbers in the range 0 and 999,999 inclusive
 27 -> 'twenty seven'
 157 -> 'one hundred and fifty seven'
 1434 -> 'one thousand four hundred and thirty four'
-874,341 -> 'eight hundred and seventy four thousand three hundred and forty one'
+874341 -> 'eight hundred and seventy four thousand three hundred and forty one'
+
+
